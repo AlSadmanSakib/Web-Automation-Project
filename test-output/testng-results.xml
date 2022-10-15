@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="20" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-15T19:21:47 BDT" name="Suite" finished-at="2022-10-15T19:24:32 BDT" duration-ms="164825">
+    <groups>
+    </groups>
+    <test started-at="2022-10-15T19:21:47 BDT" name="Test" finished-at="2022-10-15T19:24:32 BDT" duration-ms="164825">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:23:24 BDT" name="startUrl" finished-at="2022-10-15T19:23:24 BDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="clickOnloginwithgoogle()[pri:0, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:23:24 BDT" name="clickOnloginwithgoogle" finished-at="2022-10-15T19:23:32 BDT" duration-ms="8274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnloginwithgoogle -->
+        <test-method signature="sendemail()[pri:1, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:23:32 BDT" name="sendemail" finished-at="2022-10-15T19:23:37 BDT" duration-ms="5247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendemail -->
+        <test-method signature="clickOnnext()[pri:2, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:23:37 BDT" name="clickOnnext" finished-at="2022-10-15T19:23:52 BDT" duration-ms="15167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnnext -->
+        <test-method signature="sendPassWord()[pri:3, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:23:52 BDT" name="sendPassWord" finished-at="2022-10-15T19:24:03 BDT" duration-ms="10126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendPassWord -->
+        <test-method signature="clickOnnext2()[pri:4, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:24:03 BDT" name="clickOnnext2" finished-at="2022-10-15T19:24:18 BDT" duration-ms="15278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnnext2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.LoginTest@173ed316]" started-at="2022-10-15T19:24:18 BDT" name="afterClass" finished-at="2022-10-15T19:24:18 BDT" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="start()[pri:0, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:21:45 BDT" name="start" finished-at="2022-10-15T19:21:47 BDT" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:21:47 BDT" name="startUrl" finished-at="2022-10-15T19:21:52 BDT" duration-ms="4181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="hoverOnsubject()[pri:0, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:21:52 BDT" name="hoverOnsubject" finished-at="2022-10-15T19:22:05 BDT" duration-ms="13576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hoverOnsubject -->
+        <test-method signature="selectউপন্যাস()[pri:1, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:22:05 BDT" name="selectউপন্যাস" finished-at="2022-10-15T19:22:20 BDT" duration-ms="15320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectউপন্যাস -->
+        <test-method signature="clickOnView_Details()[pri:2, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:22:20 BDT" name="clickOnView_Details" finished-at="2022-10-15T19:22:37 BDT" duration-ms="16915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnView_Details -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:22:37 BDT" name="afterClass" finished-at="2022-10-15T19:22:38 BDT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tests.HomePageTest@6e9175d8]" started-at="2022-10-15T19:24:32 BDT" name="close" finished-at="2022-10-15T19:24:32 BDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.AddToCartTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.AddToCartTest@69e153c5]" started-at="2022-10-15T19:22:38 BDT" name="startUrl" finished-at="2022-10-15T19:22:38 BDT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="clickOnaddtocart()[pri:0, instance:tests.AddToCartTest@69e153c5]" started-at="2022-10-15T19:22:38 BDT" name="clickOnaddtocart" finished-at="2022-10-15T19:22:53 BDT" duration-ms="15342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnaddtocart -->
+        <test-method signature="clickOnmycart()[pri:1, instance:tests.AddToCartTest@69e153c5]" started-at="2022-10-15T19:22:53 BDT" name="clickOnmycart" finished-at="2022-10-15T19:23:08 BDT" duration-ms="15282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnmycart -->
+        <test-method signature="clickOnproceedtocheckout()[pri:2, instance:tests.AddToCartTest@69e153c5]" started-at="2022-10-15T19:23:08 BDT" name="clickOnproceedtocheckout" finished-at="2022-10-15T19:23:24 BDT" duration-ms="15267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnproceedtocheckout -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.AddToCartTest@69e153c5]" started-at="2022-10-15T19:23:24 BDT" name="afterClass" finished-at="2022-10-15T19:23:24 BDT" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.AddToCartTest -->
+      <class name="tests.AddressTest">
+        <test-method is-config="true" signature="startUrl()[pri:0, instance:tests.AddressTest@25ce9dc4]" started-at="2022-10-15T19:24:18 BDT" name="startUrl" finished-at="2022-10-15T19:24:18 BDT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUrl -->
+        <test-method signature="clickOnaddress()[pri:0, instance:tests.AddressTest@25ce9dc4]" started-at="2022-10-15T19:24:18 BDT" name="clickOnaddress" finished-at="2022-10-15T19:24:26 BDT" duration-ms="8262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnaddress -->
+        <test-method signature="clickOnaddnewaddress()[pri:1, instance:tests.AddressTest@25ce9dc4]" started-at="2022-10-15T19:24:26 BDT" name="clickOnaddnewaddress" finished-at="2022-10-15T19:24:32 BDT" duration-ms="5762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnaddnewaddress -->
+        <test-method signature="sendFullName()[pri:2, instance:tests.AddressTest@25ce9dc4]" started-at="2022-10-15T19:24:32 BDT" name="sendFullName" finished-at="2022-10-15T19:24:32 BDT" duration-ms="2" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'SADMAN', ip: '192.168.0.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:8676}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:8676/devtool..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.3.0', revision: 'a4995e2c09*'
+System info: host: 'SADMAN', ip: '192.168.0.107', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.119, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\User\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:8676}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:8676/devtool..., se:cdpVersion: 106.0.5249.119, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:145)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:624)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:628)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:353)
+at utilities.GetScreenShot.capture(GetScreenShot.java:15)
+at pages.Address.sendFullName(Address.java:132)
+at tests.AddressTest.sendFullName(AddressTest.java:57)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendFullName -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.AddressTest@25ce9dc4]" started-at="2022-10-15T19:24:32 BDT" name="afterClass" finished-at="2022-10-15T19:24:32 BDT" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.AddressTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
